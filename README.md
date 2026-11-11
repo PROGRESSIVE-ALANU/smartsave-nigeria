@@ -2,6 +2,8 @@
 
 **A Household Financial Planning and Education Affordability Simulator**
 
+**Live app:** https://smartsave-nigeria.streamlit.app
+
 SmartSave Nigeria is an educational, fully local Python application that asks whether
 structured budgeting and advance savings planning help a household meet a school-fee
 deadline, and when they cannot help because income is simply too low. It combines
