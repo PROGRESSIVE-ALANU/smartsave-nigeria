@@ -1,0 +1,6 @@
+name,description,monthly_income,initial_savings,household_size,rent,food,transport,utilities,healthcare,other_essential,nonessential,school_fees,months_until_due,existing_school_savings
+A: Comfortable margin,"FICTIONAL. Essentials about 58% of income; large monthly surplus.",600000,100000,4,100000,150000,40000,25000,15000,20000,100000,400000,6,50000
+B: Tight but workable,"FICTIONAL. Essentials about 71% of income; surplus covers the requirement only if most of it is actually saved.",380000,20000,5,70000,120000,35000,20000,10000,15000,50000,250000,5,30000
+C: High essential burden,"FICTIONAL. Essentials about 88% of income; the goal needs nonessential cuts larger than 30%.",300000,10000,6,60000,130000,30000,20000,10000,15000,20000,200000,6,20000
+D: Structurally insufficient income,"FICTIONAL. Essentials exceed income; no budgeting rule can fund the fees.",220000,15000,5,50000,110000,25000,15000,10000,15000,10000,180000,5,10000
+E: Irregular trader income,"FICTIONAL. Essentials about 67% of income; intended for variable-income scenarios.",450000,30000,5,80000,130000,45000,20000,10000,15000,70000,350000,6,40000

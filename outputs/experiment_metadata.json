@@ -1,0 +1,23 @@
+{
+  "description": "SmartSave Nigeria strategy experiments. SIMULATED data from FICTIONAL households; not empirical observations.",
+  "command": "python experiments/run_experiments.py",
+  "n_simulations_per_condition": 5000,
+  "seed": 2026,
+  "base_strategy_params": {
+    "remainder_saving_rate": 0.6,
+    "max_nonessential_cut": 0.3,
+    "allow_education_fund_for_essentials": true,
+    "use_general_savings_for_fees": true
+  },
+  "background_uncertainty_rule": "income CV 15%, shock probability 10%/month, shock severity 15% of monthly income, inflation 1%/month",
+  "note_e1": "Rows with background_uncertainty=False are single deterministic runs, except the 'Variable monthly income' preset, which is random by design.",
+  "profiles_file": "data/example_households.csv",
+  "versions": {
+    "python": "3.13.18",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.2"
+  },
+  "runtime_seconds": 2.02,
+  "generated_at_utc": "2026-11-11T00:51:15Z"
+}
